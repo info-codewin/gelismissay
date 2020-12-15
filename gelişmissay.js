@@ -1,3 +1,5 @@
+//https://discord.gg/cMpeHRYCHN
+//Made by WİN CODE 
 const Discord = require('discord.js');
 exports.run = async (client, message, args) => {
     let tag = "tag" // tagınız  
